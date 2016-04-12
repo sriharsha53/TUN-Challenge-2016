@@ -1,2 +1,4 @@
 # TUN-Challenge-2016
 Data Warehousing Project using Tableau
+Hire Heroes USA is a nonprofit organization that empowers US military members, veterans and their spouses to succeed in their civilian life. They conduct various workshops for career coaching and employment preparation for the veterans and their spouses. They conduct all these activities from the amount of donations they get and grant from the government of USA. The donations play a major role in the activities of their organization. Hire Heroes USA entered into the social media like Facebook, LinkedIn and Twitter in the year 2014.
+We spotted a trend between the social media presence and donations collected for Hire Heroes USA organization. This can be used to raise the funds further in future. When the trends of donations were plotted for the year 2015 on a monthly basis we found no trend in it as the ‘grant’ dominated other amounts.
